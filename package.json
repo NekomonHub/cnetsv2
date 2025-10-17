@@ -1,0 +1,16 @@
+{
+  "name": "base-xnet",
+  "version": "2.0.4",
+  "description": "",
+  "main": "main.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gradient-string": "^3.0.0",
+    "open": "^10.2.0"
+  }
+}
